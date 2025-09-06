@@ -1,4 +1,4 @@
-\#✊✋✌ Rock-Paper-Scissors Game
+\# ✊✋✌ Rock-Paper-Scissors Game
 
 
 
@@ -14,7 +14,9 @@ A simple Python Rock-Paper-Scissors game where the player competes against the c
 
 \- Detects win, lose, tie
 
-\- Play multiple rounds until you quit
+\- Keeps track of scores
+
+\- Shows final results and winner after quitting
 
 
 
@@ -34,7 +36,27 @@ Computer chose: rock
 
 You win! 🎉
 
+Enter rock, paper, or scissors (or 'quit' to stop): scissors
+
+Computer chose: rock
+
+Computer wins! 💻
+
 Enter rock, paper, or scissors (or 'quit' to stop): quit
+
+
+
+📊 Final Results:
+
+Total rounds played: 3
+
+Player wins: 2
+
+Computer wins: 1
+
+Ties: 0
+
+🏆 You are the final winner!
 
 Thanks for playing! 👋
 
@@ -43,4 +65,6 @@ Thanks for playing! 👋
 \## Author
 
 👨‍💻 Prabath
+
+
 
